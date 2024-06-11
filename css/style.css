@@ -1,0 +1,10 @@
+#input-tweep{
+    width: auto;
+}
+#tweep-title{
+    width: 200px;
+}
+#tweep-container{
+    display: flex;
+    justify-content: center;
+}
